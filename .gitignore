@@ -1,0 +1,14 @@
+# klucz API (nigdy do repozytorium)
+yt_api.txt
+.env
+
+# zbiór treningowy Sentiment140 (pobierany z Kaggle)
+training.1600000.processed.noemoticon.csv
+
+# rozpakowany model (w repozytorium jest moj_model.zip)
+moj_model.pkl
+
+# pliki systemowe i Pythona
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
